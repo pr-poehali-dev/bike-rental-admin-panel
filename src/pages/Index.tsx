@@ -1,8 +1,10 @@
 
 import { Link } from 'react-router-dom';
 import { Button } from "@/components/ui/button";
+
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
-import Icon from '@/components/ui/Icon';
+import Icon from '@/components/ui/icon';
+
 import BikeHero from '@/components/BikeHero';
 import PopularBikes from '@/components/PopularBikes';
 import RentalSteps from '@/components/RentalSteps';
